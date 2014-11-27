@@ -1,0 +1,30 @@
+{
+  "name": "after-sequence",
+  "version": "1.0.0",
+  "description": "Run several async functions and run a callback when they are gone.",
+  "main": "index.js",
+  "dependencies": {
+    "each-series": "^1.0.0"
+  },
+  "devDependencies": {
+    "tape": "^3.0.3"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sorribas/after-sequence"
+  },
+  "keywords": [
+    "sequence",
+    "async",
+    "series"
+  ],
+  "author": "Eduardo Sorribas <eduardo@sorribas.org> (http://sorribas.org/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sorribas/after-sequence/issues"
+  },
+  "homepage": "https://github.com/sorribas/after-sequence"
+}
