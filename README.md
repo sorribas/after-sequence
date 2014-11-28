@@ -1,6 +1,8 @@
 after-sequence
 ==============
 
+[![build status](https://secure.travis-ci.org/sorribas/after-sequence.png)](http://travis-ci.org/sorribas/after-sequence)
+
 Run several async functions and run a callback when they are gone.
 
 Install
